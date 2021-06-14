@@ -1,0 +1,7 @@
+{
+  "name": "dynamicIonicHeader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
